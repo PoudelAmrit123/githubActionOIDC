@@ -1,4 +1,4 @@
-iname: Test AWS OIDC Access
+name: Test AWS OIDC Access
 
 on:
   push:
